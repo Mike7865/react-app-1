@@ -27,6 +27,7 @@ let store = {
         {id: "4", message: "Hey"},
         {id: "5", message: "Yo"}
       ],
+      newMessageBody: ""
     },
     sidebar: {}
   },
